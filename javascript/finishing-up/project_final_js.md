@@ -23,5 +23,6 @@ Of course, you can't replicate every feature, and the user interface will probab
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
 - [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
+- [Start to finish instructional series on how to set up and utilize firebase with a React Application] (https://www.youtube.com/watch?v=3ZEz-iposj8&list=PLpPVLI0A0OkJ-bu1zSiknRYEUIy33gCwp&index=1)
 - [How to Build a React App that Works with a Rails 5.1 API](https://www.sitepoint.com/react-rails-5-1/)
 - [Firebase Documentation](https://firebase.google.com/)
